@@ -1,0 +1,1 @@
+from anapsix/alpine-java
